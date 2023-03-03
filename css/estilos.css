@@ -13,4 +13,11 @@ body
     text-align: left;
     margin: auto;
     color: black;
+    background-color: gray;
+}
+
+#cabecera
+{
+    background-color: blue;
+    color: white;
 }
